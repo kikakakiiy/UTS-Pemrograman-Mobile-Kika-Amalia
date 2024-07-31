@@ -3,3 +3,9 @@
 
 CATATAN:
 Masuk ke branch master, lalu muncul file file untuk di download
+
+Isi Aplikasi:
+* Aplikasi Cake Shop
+* Aplikasi calculator
+* Aplikasi perhitungan BMI
+* Aplikasi menu convert
